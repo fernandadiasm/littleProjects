@@ -22,7 +22,7 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 
-[🔗 You can access the site by clicking here 🧾]()
+[🔗 You can access the site by clicking here 🧾](https://codepen.io/fernandadiasm/pen/abaBJWa)
 
 ## 🚀 Techs
 
